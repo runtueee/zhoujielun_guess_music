@@ -1,0 +1,15 @@
+专辑
+build
+test
+guess_song.py
+jackpot1原.mp4
+jackpot2原.mp4
+testsong.py
+check_balance.py
+
+# 320k 备份 (部署确认成功后可删), 不能入库
+总_320k备份/
+音效/
+__pycache__/
+.DS_Store
+.claude/
